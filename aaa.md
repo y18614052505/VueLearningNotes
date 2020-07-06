@@ -1,1 +1,1 @@
-![aaaa](https://github.com/y18614052505/VueLearningNotes/blob/master/images/computed1.png)
+![aaaa](https://https://raw.githubusercontent.com/y18614052505/VueLearningNotes/master/images/aaaa.jpg)
